@@ -7,4 +7,4 @@
 * Thus this project basically keeps the products record in the app and it thus makes easier for the user as well as the shopkeeper to check the updates about the stock in the shop.
 * This app provided an efficent way to keep records and personalize their grocery app such as to make them available for the customers to check out the availability of the product.
 
-Thankyou for reading it.
+Thankyou for reading it. 😄
