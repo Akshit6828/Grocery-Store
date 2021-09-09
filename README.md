@@ -1,9 +1,9 @@
 # Grocery-Store
 
 ### Table of Contents:
-* [Idea behind the project](#idea-behind-the-project)
+* [Idea Behind the Project](#idea-behind-the-project)
 
-#### Idea behind the project:
+#### Idea Behind the Project:
 
 * This project was made by measuring the need of some shopkeepers near my hometown who were facing difficulty in managing and counting the products in their respective shops.
 * They all were entangled within the old framework of Writing down the product counts in a notebook which was at risk of keeping it very carefully.
