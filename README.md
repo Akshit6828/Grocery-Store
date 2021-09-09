@@ -1,5 +1,8 @@
 # Grocery-Store
 
+### Table of Contents:
+* [Purpose of Project](#purpose-of-project)
+
 #### Purpose of Project:
 
 * This project was made by measuring the need of some shopkeepers near my hometown who were facing difficulty in managing and counting the products in their respective shops.
